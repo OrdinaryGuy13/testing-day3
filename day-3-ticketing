@@ -1,0 +1,84 @@
+1. Perbedaan antara Trello, Jira dan Youtrack ?
+Jawab :
+
+Ketiganya merupakan Project Management Tool, tetapi karena Jira didesain untuk 
+software team, yang mana menargetkan Software Builder, Developer atau Managemen 
+Projek pada aplikasi, kemudian Trello mempunyai target pengguna yang lebih luas, 
+umumnya Trello menawarkan semua jenis projek tracking, Sedangkan Youtrack tidak 
+seperti Tool Project Manajemen yang sebelumnya Youtrack bisa di costumisasi sesuai 
+dengan keiginan penggunanya.
+
+a.Analisis Alur Pengunaan
+
+Jawab :
+
+Untuk alur penggunaan dari ketiga aplikasi ini hampir sama dimana pengguna card 
+membuat issue / problem ----- mengerjakan card issue tersebut ----- kemudian setelah 
+selesai di kerjakan pengguna bisa menaruh card terebut pada list done untuk 
+direview ------ jika sudah sesuai, atasan bisa mengapprove card yang kita buat.
+
+b.Kelebihan dan kekurangan ?
+Jawab :
+ 
+Kelebihan :
+- Jira 
+  - Di desain untuk pembuatan aplikasi
+  - Dapat memuat issue yang mempunyai banyak konten, seperti links, gambar-gambar dan attachments
+  - Mempunyai mobile app dengan notifikasi, yang mana membantu pengguna untuk mentrack issue setiap waktu
+  - Memberikan task filtering, jadi kita bisa fokus pada pekerjaan yang relevan dengan kita
+
+Kekurangan 
+  - Terlalu banyak, fitur, hal memungkinkan fitur lainnya tidak digunakan
+  - Memerlukan pelatihan untuk menggunakkan semua fiturnya
+  - Membutuhkan pemahaman yang kuat untuk menggunakkannya
+  - Terlalu berlebihan jika di gunakan untuk project kecil atau tim yang sedikit orang
+
+- Trello
+
+- Kelebihan 
+
+  - Sangat mudah digunakan
+
+  - User Interface yang simpel
+
+  - Mempunyai visual mudah di pahami
+
+  - Sangat ideal untuk project kecil dan tim yang kecil
+
+- Kekurangan 
+
+  - UI / UX Tidak ramah untuk menambahkan detail issue pada card 
+
+  - Pada kanban board terlalu kecil
+
+  - Tidak mempunyai prioritas tugas
+
+Antara Jira dan Trello keduanya bisa diintergrasi kan berguna apabila anggota tim terbagi menjadi dua. 
+Misalnya, sebagian orang lebih memilih untuk menggunakan Jira, dan sebagian lainnya lebih memilih untuk 
+menggunakan Trello. Kita bisa memasukkan keterangan tugas dari Jira ke dalam tugas yang ditulis di Trello.
+Trello bisa digunakan untuk tim developer, namun lebih sering dipakai oleh tim bisnis. Sebaliknya, 
+Jira bisa digunakan siapa pun, tapi biasanya digunakan oleh tim developer. apabila ada proyek yang mengharuskan 
+integrasi antarkedua tim ini, kamu bisa melakukannya dengan mudah.
+
+- Youtrack
+
+- Kelebihan
+ 
+Youtrack mempunyai kelebihan pada costumisasi untuk kebutuhan penggunanya. Contohnya :
+  - Konfigurasi tampilan kerja
+  - Mempunyai banyak ekstensi
+  - Banyak dukungan bahasa
+  - Tema (dark mode)
+  - Kostumisasi profil pengguna
+- Kekurangan :
+  - Masih terdapat bug dan glitch pada aplikasi
+  - Terkadang UI dapat membuat bingung pengguna
+
+c. Tools Ticketing mana yang harus diadopsi Sev-2 ?
+Kesimpulan untuk aplikasi ticketing mana yang harus di adopsi oleh sev-2, menurut saya ketiga aplikasi ini \
+bisa di adopsi terutama fitur-fiturnya oleh sev-2 seperti 
+  - integrasi antara Jira dan Trello
+  - dapat digunakan untuk project yang besar maupun kecil
+  - dapat digunakan untuk tim yang besar atau kecil
+  - banyaknya bahasa yang didukung oleh Youtrack (English, Chinese, dll)
+  - dan kemudian fitur kostumisasi pada Youtrack, kemudian pada kostumisasi tampilan (Tema).
